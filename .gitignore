@@ -1,5 +1,8 @@
 /readings
 /part1/cifar-10-batches-py
 /part1/__pycache__
-/part1/cifar-10-batches-py
+/part2/cifar-10-batches-py
+/part2/__pycache__
 /part2/cnn
+/part2/data
+/part2/relics
